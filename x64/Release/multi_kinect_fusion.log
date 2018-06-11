@@ -1,0 +1,10 @@
+﻿  glwidget.cpp
+glwidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+.\sacsvstream.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+glwidget.cpp(19): warning C4100: “h”: 未引用的形参
+glwidget.cpp(19): warning C4100: “w”: 未引用的形参
+glwidget.cpp(57): warning C4305: “+=”: 从“double”到“GLfloat”截断
+glwidget.cpp(65): warning C4305: “-=”: 从“double”到“GLfloat”截断
+glwidget.cpp(68): warning C4305: “=”: 从“double”到“GLfloat”截断
+glwidget.cpp(196): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  multi_kinect_fusion.vcxproj -> E:\QT+VSAPP\multi_kinect_fusion\release\multi_kinect_fusion.exe
